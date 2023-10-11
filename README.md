@@ -31,6 +31,6 @@ This repository contains a collection of labs and programs pertaining to the fun
 10. **[DAGs, MSTs, all-pair shortest paths](9a.%20DAGs,%20MSTs,%20APSP/Lab%2010%20files)**
     - [Graph Processor](/9a.%20DAGs,%20MSTs,%20APSP/Lab%2010%20files)
 
-### PROGRAM Sample:
+### Program Sample (lab 9):
 
 ![alt text](other/2.png)

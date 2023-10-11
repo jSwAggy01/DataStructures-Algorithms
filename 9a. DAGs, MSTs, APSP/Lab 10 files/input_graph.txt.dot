@@ -1,0 +1,13 @@
+digraph G {
+A[label="A, 0"];
+A -> B;
+B[label="B, 1"];
+B -> D;
+D[label="D, 4"];
+D -> E;
+E[label="E, 7"];
+A -> C;
+C[label="C, 2"];
+C -> D;
+C -> E;
+}
